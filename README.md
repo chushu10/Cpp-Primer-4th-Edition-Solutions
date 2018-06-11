@@ -16,7 +16,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |||||||||||
 |||||||||[2.19](Chapter-2/Exercise-2.19.md)|[2.20](Chapter-2/Exercise-2.21.md)|
-|[2.21](Chapter-2/Exercise-2.21.md)|[2.22](Chapter-2/Exercise-2.22.md)|[2.23](Chapter-2/Exercise-2.23.md)|[2.24](Chapter-2/Exercise-2.24.md)|[2.25](Chapter-2/Exercise-2.25.md)||||||
+|[2.21](Chapter-2/Exercise-2.21.md)|[2.22](Chapter-2/Exercise-2.22.md)|[2.23](Chapter-2/Exercise-2.23.md)|[2.24](Chapter-2/Exercise-2.24.md)|[2.25](Chapter-2/Exercise-2.25.md)|[2.26](Chapter-2/Exercise-2.26.md)|[2.27](Chapter-2/Exercise-2.27.md)|[2.28](Chapter-2/Exercise-2.28.md)|[2.29](Chapter-2/Exercise-2.29.md)|[2.30](Chapter-2/Exercise-2.30.md)|
 
 ### Chapter 3 Library Types
 
