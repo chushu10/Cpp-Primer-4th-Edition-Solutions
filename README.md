@@ -23,7 +23,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[3.1](Chapter-3/Exercise-3.1.md)|[3.2](Chapter-3/Exercise-3.2.md)|[3.3](Chapter-3/Exercise-3.3.md)|[3.4](Chapter-3/Exercise-3.4.md)|||||||
+|[3.1](Chapter-3/Exercise-3.1.md)|[3.2](Chapter-3/Exercise-3.2.md)|[3.3](Chapter-3/Exercise-3.3.md)|[3.4](Chapter-3/Exercise-3.4.md)|[3.5](Chapter-3/Exercise-3.5.md)|[3.6](Chapter-3/Exercise-3.6.md)|||||
 
 ### Chapter 4 Arrays and Pointers
 
