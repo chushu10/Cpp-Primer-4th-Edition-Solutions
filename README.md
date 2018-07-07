@@ -31,7 +31,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[4.1](Chapter-4/Exercise-4.1.md)|[4.2](Chapter-4/Exercise-4.2.md)|[4.3](Chapter-4/Exercise-4.3.md)|[4.4](Chapter-4/Exercise-4.4.md)|[4.5](Chapter-4/Exercise-4.5.md)||||||
+|[4.1](Chapter-4/Exercise-4.1.md)|[4.2](Chapter-4/Exercise-4.2.md)|[4.3](Chapter-4/Exercise-4.3.md)|[4.4](Chapter-4/Exercise-4.4.md)|[4.5](Chapter-4/Exercise-4.5.md)|[4.6](Chapter-4/Exercise-4.6.md)|[4.7](Chapter-4/Exercise-4.7.md)|[4.8](Chapter-4/Exercise-4.8.md)|[4.9](Chapter-4/Exercise-4.9.md)||
 
 ### Chapter 5 Expressions
 
