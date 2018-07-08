@@ -32,7 +32,8 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[4.1](Chapter-4/Exercise-4.1.md)|[4.2](Chapter-4/Exercise-4.2.md)|[4.3](Chapter-4/Exercise-4.3.md)|[4.4](Chapter-4/Exercise-4.4.md)|[4.5](Chapter-4/Exercise-4.5.md)|[4.6](Chapter-4/Exercise-4.6.md)|[4.7](Chapter-4/Exercise-4.7.md)|[4.8](Chapter-4/Exercise-4.8.md)|[4.9](Chapter-4/Exercise-4.9.md)|[4.10](Chapter-4/Exercise-4.10.md)|
-|[4.11](Chapter-4/Exercise-4.11.md)|[4.12](Chapter-4/Exercise-4.12.md)|[4.13](Chapter-4/Exercise-4.13.md)|[4.14](Chapter-4/Exercise-4.14.md)|[4.15](Chapter-4/Exercise-4.15.md)|[4.16](Chapter-4/Exercise-4.16.md)|[4.17](Chapter-4/Exercise-4.17.md)|[4.18](Chapter-4/Exercise-4.18.md)|||
+|[4.11](Chapter-4/Exercise-4.11.md)|[4.12](Chapter-4/Exercise-4.12.md)|[4.13](Chapter-4/Exercise-4.13.md)|[4.14](Chapter-4/Exercise-4.14.md)|[4.15](Chapter-4/Exercise-4.15.md)|[4.16](Chapter-4/Exercise-4.16.md)|[4.17](Chapter-4/Exercise-4.17.md)|[4.18](Chapter-4/Exercise-4.18.md)|[4.19](Chapter-4/Exercise-4.19.md)|[4.20](Chapter-4/Exercise-4.20.md)|
+|[4.21](Chapter-4/Exercise-4.21.md)||||||||||
 
 ### Chapter 5 Expressions
 
