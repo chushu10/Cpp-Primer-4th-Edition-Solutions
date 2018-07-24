@@ -36,7 +36,11 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[4.21](Chapter-4/Exercise-4.21.md)|[4.22](Chapter-4/Exercise-4.22.md)|[4.23](Chapter-4/Exercise-4.23.md)|[4.24](Chapter-4/Exercise-4.24.md)|[4.25](Chapter-4/Exercise-4.25.md)|[4.26](Chapter-4/Exercise-4.26.md)|[4.27](Chapter-4/Exercise-4.27.md)|[4.28](Chapter-4/Exercise-4.28.md)|[4.29](Chapter-4/Exercise-4.29.md)|[4.30](Chapter-4/Exercise-4.30.md)|
 |[4.31](Chapter-4/Exercise-4.31.md)|[4.32](Chapter-4/Exercise-4.32.md)|[4.33](Chapter-4/Exercise-4.33.md)|[4.34](Chapter-4/Exercise-4.34.md)|[4.35](Chapter-4/Exercise-4.35.md)|[4.36](Chapter-4/Exercise-4.36.md)|||||
 
-### Chapter 5 Expressions
+### Chapter 5 [Expressions](Chapter-5)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[5.1](Chapter-5/Exercise-5.1.md)|[5.2](Chapter-5/Exercise-5.2.md)|[5.3](Chapter-5/Exercise-5.3.md)|[5.4](Chapter-5/Exercise-5.4.md)|||||||
 
 ### Chapter 6 Statements
 
