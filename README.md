@@ -41,7 +41,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[5.1](Chapter-5/Exercise-5.1.md)|[5.2](Chapter-5/Exercise-5.2.md)|[5.3](Chapter-5/Exercise-5.3.md)|[5.4](Chapter-5/Exercise-5.4.md)|[5.5](Chapter-5/Exercise-5.5.md)|[5.6](Chapter-5/Exercise-5.6.md)|[5.7](Chapter-5/Exercise-5.7.md)|[5.8](Chapter-5/Exercise-5.8.md)|[5.9](Chapter-5/Exercise-5.9.md)|[5.10](Chapter-5/Exercise-5.10.md)|
-|[5.11](Chapter-5/Exercise-5.11.md)|[5.12](Chapter-5/Exercise-5.12.md)|[5.13](Chapter-5/Exercise-5.13.md)|[5.14](Chapter-5/Exercise-5.14.md)|[5.15](Chapter-5/Exercise-5.15.md)|[5.16](Chapter-5/Exercise-5.16.md)|[5.17](Chapter-5/Exercise-5.17.md)||||
+|[5.11](Chapter-5/Exercise-5.11.md)|[5.12](Chapter-5/Exercise-5.12.md)|[5.13](Chapter-5/Exercise-5.13.md)|[5.14](Chapter-5/Exercise-5.14.md)|[5.15](Chapter-5/Exercise-5.15.md)|[5.16](Chapter-5/Exercise-5.16.md)|[5.17](Chapter-5/Exercise-5.17.md)|[5.18](Chapter-5/Exercise-5.18.md)|[5.19](Chapter-5/Exercise-5.19.md)||
 
 ### Chapter 6 Statements
 
