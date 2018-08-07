@@ -49,7 +49,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[6.1](Chapter-6/Exercise-6.1.md)|[6.2](Chapter-6/Exercise-6.2.md)|[6.3](Chapter-6/Exercise-6.3.md)|[6.4](Chapter-6/Exercise-6.4.md)|||||||
+|[6.1](Chapter-6/Exercise-6.1.md)|[6.2](Chapter-6/Exercise-6.2.md)|[6.3](Chapter-6/Exercise-6.3.md)|[6.4](Chapter-6/Exercise-6.4.md)|[6.5](Chapter-6/Exercise-6.5.md)|[6.6](Chapter-6/Exercise-6.6.md)|||||
 
 ### Chapter 7 Functions
 
