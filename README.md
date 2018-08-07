@@ -45,7 +45,11 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[5.21](Chapter-5/Exercise-5.21.md)|[5.22](Chapter-5/Exercise-5.22.md)|[5.23](Chapter-5/Exercise-5.23.md)|[5.24](Chapter-5/Exercise-5.24.md)|[5.25](Chapter-5/Exercise-5.25.md)|[5.26](Chapter-5/Exercise-5.26.md)|[5.27](Chapter-5/Exercise-5.27.md)|[5.28](Chapter-5/Exercise-5.28.md)|[5.29](Chapter-5/Exercise-5.29.md)|[5.30](Chapter-5/Exercise-5.30.md)|
 |[5.31](Chapter-5/Exercise-5.31.md)|[5.32](Chapter-5/Exercise-5.32.md)|[5.33](Chapter-5/Exercise-5.33.md)||||||||
 
-### Chapter 6 Statements
+### Chapter 6 [Statements](Chapter-6)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[6.1](Chapter-6/Exercise-6.1.md)|[6.2](Chapter-6/Exercise-6.2.md)|[6.3](Chapter-6/Exercise-6.3.md)|[6.4](Chapter-6/Exercise-6.4.md)|||||||
 
 ### Chapter 7 Functions
 
