@@ -51,7 +51,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[6.1](Chapter-6/Exercise-6.1.md)|[6.2](Chapter-6/Exercise-6.2.md)|[6.3](Chapter-6/Exercise-6.3.md)|[6.4](Chapter-6/Exercise-6.4.md)|[6.5](Chapter-6/Exercise-6.5.md)|[6.6](Chapter-6/Exercise-6.6.md)|[6.7](Chapter-6/Exercise-6.7.md)|[6.8](Chapter-6/Exercise-6.8.md)|[6.9](Chapter-6/Exercise-6.9.md)|[6.10](Chapter-6/Exercise-6.10.md)|
 |[6.11](Chapter-6/Exercise-6.11.md)|[6.12](Chapter-6/Exercise-6.12.md)|[6.13](Chapter-6/Exercise-6.13.md)|[6.14](Chapter-6/Exercise-6.14.md)|[6.15](Chapter-6/Exercise-6.15.md)|[6.16](Chapter-6/Exercise-6.16.md)|[6.17](Chapter-6/Exercise-6.17.md)|[6.18](Chapter-6/Exercise-6.18.md)|[6.19](Chapter-6/Exercise-6.19.md)|[6.20](Chapter-6/Exercise-6.20.md)|
-|[6.21](Chapter-6/Exercise-6.21.md)|[6.22](Chapter-6/Exercise-6.22.md)|[6.23](Chapter-6/Exercise-6.23.md)|[6.24](Chapter-6/Exercise-6.24.md)|||||||
+|[6.21](Chapter-6/Exercise-6.21.md)|[6.22](Chapter-6/Exercise-6.22.md)|[6.23](Chapter-6/Exercise-6.23.md)|[6.24](Chapter-6/Exercise-6.24.md)|[6.25](Chapter-6/Exercise-6.25.md)|[6.26](Chapter-6/Exercise-6.26.md)|[6.27](Chapter-6/Exercise-6.27.md)||||
 
 ### Chapter 7 Functions
 
