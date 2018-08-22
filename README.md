@@ -53,7 +53,11 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[6.11](Chapter-6/Exercise-6.11.md)|[6.12](Chapter-6/Exercise-6.12.md)|[6.13](Chapter-6/Exercise-6.13.md)|[6.14](Chapter-6/Exercise-6.14.md)|[6.15](Chapter-6/Exercise-6.15.md)|[6.16](Chapter-6/Exercise-6.16.md)|[6.17](Chapter-6/Exercise-6.17.md)|[6.18](Chapter-6/Exercise-6.18.md)|[6.19](Chapter-6/Exercise-6.19.md)|[6.20](Chapter-6/Exercise-6.20.md)|
 |[6.21](Chapter-6/Exercise-6.21.md)|[6.22](Chapter-6/Exercise-6.22.md)|[6.23](Chapter-6/Exercise-6.23.md)|[6.24](Chapter-6/Exercise-6.24.md)|[6.25](Chapter-6/Exercise-6.25.md)|[6.26](Chapter-6/Exercise-6.26.md)|[6.27](Chapter-6/Exercise-6.27.md)||||
 
-### Chapter 7 Functions
+### Chapter 7 [Functions](Chapter-7)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[7.1](Chapter-7/Exercise-7.1.md)|[7.2](Chapter-7/Exercise-7.2.md)|[7.3](Chapter-7/Exercise-7.3.md)|[7.4](Chapter-7/Exercise-7.4.md)|[7.5](Chapter-7/Exercise-7.5.md)|[7.6](Chapter-7/Exercise-7.6.md)|[7.7](Chapter-7/Exercise-7.7.md)|[7.8](Chapter-7/Exercise-7.8.md)|[7.9](Chapter-7/Exercise-7.9.md)|[7.10](Chapter-7/Exercise-7.10.md)|
 
 ### Chapter 9 Sequential Containers
 
