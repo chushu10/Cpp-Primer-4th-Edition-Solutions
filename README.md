@@ -58,6 +58,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[7.1](Chapter-7/Exercise-7.1.md)|[7.2](Chapter-7/Exercise-7.2.md)|[7.3](Chapter-7/Exercise-7.3.md)|[7.4](Chapter-7/Exercise-7.4.md)|[7.5](Chapter-7/Exercise-7.5.md)|[7.6](Chapter-7/Exercise-7.6.md)|[7.7](Chapter-7/Exercise-7.7.md)|[7.8](Chapter-7/Exercise-7.8.md)|[7.9](Chapter-7/Exercise-7.9.md)|[7.10](Chapter-7/Exercise-7.10.md)|
+|[7.11](Chapter-7/Exercise-7.11.md)||||||||||
 
 ### Chapter 9 Sequential Containers
 
