@@ -59,7 +59,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[7.1](Chapter-7/Exercise-7.1.md)|[7.2](Chapter-7/Exercise-7.2.md)|[7.3](Chapter-7/Exercise-7.3.md)|[7.4](Chapter-7/Exercise-7.4.md)|[7.5](Chapter-7/Exercise-7.5.md)|[7.6](Chapter-7/Exercise-7.6.md)|[7.7](Chapter-7/Exercise-7.7.md)|[7.8](Chapter-7/Exercise-7.8.md)|[7.9](Chapter-7/Exercise-7.9.md)|[7.10](Chapter-7/Exercise-7.10.md)|
 |[7.11](Chapter-7/Exercise-7.11.md)|[7.12](Chapter-7/Exercise-7.12.md)|[7.13](Chapter-7/Exercise-7.13.md)|[7.14](Chapter-7/Exercise-7.14.md)|[7.15](Chapter-7/Exercise-7.15.md)|[7.16](Chapter-7/Exercise-7.16.md)|[7.17](Chapter-7/Exercise-7.17.md)|[7.18](Chapter-7/Exercise-7.18.md)|[7.19](Chapter-7/Exercise-7.19.md)|[7.20](Chapter-7/Exercise-7.20.md)|
-|[7.21](Chapter-7/Exercise-7.21.md)|[7.22](Chapter-7/Exercise-7.22.md)|[7.23](Chapter-7/Exercise-7.23.md)|[7.24](Chapter-7/Exercise-7.24.md)|[7.25](Chapter-7/Exercise-7.25.md)|[7.26](Chapter-7/Exercise-7.26.md)|[7.27](Chapter-7/Exercise-7.27.md)|[7.28](Chapter-7/Exercise-7.28.md)|||
+|[7.21](Chapter-7/Exercise-7.21.md)|[7.22](Chapter-7/Exercise-7.22.md)|[7.23](Chapter-7/Exercise-7.23.md)|[7.24](Chapter-7/Exercise-7.24.md)|[7.25](Chapter-7/Exercise-7.25.md)|[7.26](Chapter-7/Exercise-7.26.md)|[7.27](Chapter-7/Exercise-7.27.md)|[7.28](Chapter-7/Exercise-7.28.md)|[7.29](Chapter-7/Exercise-7.29.md)|[7.30](Chapter-7/Exercise-7.30.md)|
 
 ### Chapter 9 Sequential Containers
 
