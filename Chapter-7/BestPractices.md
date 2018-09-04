@@ -8,3 +8,13 @@ Here are the best practices listed in chapter 7:
 - Functions that do not change the elements of their array parameter should make the parameter a pointer to `const`: `void f(const int*) { /* ... */}`
 - **Never return a reference/pointer to a local object.** Because when a function completes, the storage in which the local objects were allocated is freed. A reference/pointer to a local object refers to **undefined** memory after the function terminates.
 - Function prototypes provide the **interface** between the programmer who defines the function and programmers who use it. When we use a function, we **program to the function's prototype**.
+- A `const` object or a pointer or reference to a `const` object may be used to call only `const` member functions. It is an error to try to call a non`const` member function on a `const` object or through a pointer or reference to a `const` object. Thus, the following code is in error:
+
+```cpp
+const Sales_item total; // init object total
+const Sales_item &rtotal = total;
+const Sales_item *ptotal = &total;
+total.someNonConstMemberFunc(); // error: cannot call non-const member function on const object
+rtotal.someNonConstMemberFunc(); // error: cannot call non-const member function on reference to const object
+ptotal->someNonConstMemberFunc(); // error: cannot call non-const member function on pointer to const object
+```
