@@ -18,3 +18,8 @@ total.someNonConstMemberFunc(); // error: cannot call non-const member function 
 rtotal.someNonConstMemberFunc(); // error: cannot call non-const member function on reference to const object
 ptotal->someNonConstMemberFunc(); // error: cannot call non-const member function on pointer to const object
 ```
+
+- Functions cannot be overloaded based only on differences in the return type.
+- A function that takes a `const` reference is different from on that takes a non`const` reference. Similarly, a function that takes a pointer to a `const` type differs from a function that takes a pointer to the non`const` object of the same type.
+- In general, it is a bad idea to declare a function locally. Function declarations should go in **header files**.
+- In C++, name lookup happens before type checking.
