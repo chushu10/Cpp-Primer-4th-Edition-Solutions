@@ -23,3 +23,4 @@ ptotal->someNonConstMemberFunc(); // error: cannot call non-const member functio
 - A function that takes a `const` reference is different from on that takes a non`const` reference. Similarly, a function that takes a pointer to a `const` type differs from a function that takes a pointer to the non`const` object of the same type.
 - In general, it is a bad idea to declare a function locally. Function declarations should go in **header files**.
 - In C++, name lookup happens before type checking.
+- In practice, arguments should not need casts when calling overloaded functions: The need for a cast means that the parameter sets are designed poorly.
