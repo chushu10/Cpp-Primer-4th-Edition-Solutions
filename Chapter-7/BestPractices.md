@@ -24,3 +24,13 @@ ptotal->someNonConstMemberFunc(); // error: cannot call non-const member functio
 - In general, it is a bad idea to declare a function locally. Function declarations should go in **header files**.
 - In C++, name lookup happens before type checking.
 - In practice, arguments should not need casts when calling overloaded functions: The need for a cast means that the parameter sets are designed poorly.
+- The best way to read function pointer declarations is from the inside out, starting with the name being declared. eg: `int (*ff(int))(int*, int)`, `ff` is a function taking an `int` and returning a function pointer, the function pointed to returns an `int` and takes an `int*` and an `int`. The inside part is `ff(int)`, the outside part is `int (*)(int*, int)`.
+- Use `typedef` to make the previous function pointer declarations easier to read:
+
+```cpp
+// PF is a pointer to a function returning an int, taking an int* and an int
+typedef int (*PF)(int*, int);
+PF ff(int); // ff returns a pointer to function
+```
+
+- A function return type must be a pointer to function, not a function type.
