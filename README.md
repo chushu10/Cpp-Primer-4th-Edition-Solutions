@@ -62,6 +62,12 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[7.21](Chapter-7/Exercise-7.21.md)|[7.22](Chapter-7/Exercise-7.22.md)|[7.23](Chapter-7/Exercise-7.23.md)|[7.24](Chapter-7/Exercise-7.24.md)|[7.25](Chapter-7/Exercise-7.25.md)|[7.26](Chapter-7/Exercise-7.26.md)|[7.27](Chapter-7/Exercise-7.27.md)|[7.28](Chapter-7/Exercise-7.28.md)|[7.29](Chapter-7/Exercise-7.29.md)|[7.30](Chapter-7/Exercise-7.30.md)|
 |[7.31](Chapter-7/Exercise-7.31.md)|[7.32](Chapter-7/Exercise-7.32.md)|[7.33](Chapter-7/Exercise-7.33.md)|[7.34](Chapter-7/Exercise-7.34.md)|[7.35](Chapter-7/Exercise-7.35.md)|[7.36](Chapter-7/Exercise-7.36.md)|[7.37](Chapter-7/Exercise-7.37.md)|[7.38](Chapter-7/Exercise-7.38.md)|[7.39](Chapter-7/Exercise-7.39.md)|[7.40](Chapter-7/Exercise-7.40.md)|
 
+### Chapter 8 [The IO Library](Chapter-8)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[8.1](Chapter-8/Exercise-8.1.md)|[8.2](Chapter-8/Exercise-8.2.md)|[8.3](Chapter-8/Exercise-8.3.md)|[8.4](Chapter-8/Exercise-8.4.md)|[8.5](Chapter-8/Exercise-8.5.md)|[8.6](Chapter-8/Exercise-8.6.md)|[8.7](Chapter-8/Exercise-8.7.md)|[8.8](Chapter-8/Exercise-8.8.md)|[8.9](Chapter-8/Exercise-8.9.md)|[8.10](Chapter-8/Exercise-8.10.md)|
+
 ### Chapter 9 Sequential Containers
 
 ### Chapter 10 Associative Containers
