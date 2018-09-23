@@ -69,7 +69,11 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[8.1](Chapter-8/Exercise-8.1.md)|[8.2](Chapter-8/Exercise-8.2.md)|[8.3](Chapter-8/Exercise-8.3.md)|[8.4](Chapter-8/Exercise-8.4.md)|[8.5](Chapter-8/Exercise-8.5.md)|[8.6](Chapter-8/Exercise-8.6.md)|[8.7](Chapter-8/Exercise-8.7.md)|[8.8](Chapter-8/Exercise-8.8.md)|[8.9](Chapter-8/Exercise-8.9.md)|[8.10](Chapter-8/Exercise-8.10.md)|
 |[8.11](Chapter-8/Exercise-8.11.md)|[8.12](Chapter-8/Exercise-8.12.md)|[8.13](Chapter-8/Exercise-8.13.md)|[8.14](Chapter-8/Exercise-8.14.md)|[8.15](Chapter-8/Exercise-8.15.md)|[8.16](Chapter-8/Exercise-8.16.md)|||||
 
-### Chapter 9 Sequential Containers
+### Chapter 9 [Sequential Containers](Chapter-9)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[9.1](Chapter-9/Exercise-9.1.md)|[9.2](Chapter-9/Exercise-9.2.md)|[9.3](Chapter-9/Exercise-9.3.md)|[9.4](Chapter-9/Exercise-9.4.md)|[9.5](Chapter-9/Exercise-9.5.md)|[9.6](Chapter-9/Exercise-9.6.md)|[9.7](Chapter-9/Exercise-9.7.md)|[9.8](Chapter-9/Exercise-9.8.md)|[9.9](Chapter-9/Exercise-9.9.md)|[9.10](Chapter-9/Exercise-9.10.md)|
 
 ### Chapter 10 Associative Containers
 
