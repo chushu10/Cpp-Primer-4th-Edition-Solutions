@@ -74,6 +74,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[9.1](Chapter-9/Exercise-9.1.md)|[9.2](Chapter-9/Exercise-9.2.md)|[9.3](Chapter-9/Exercise-9.3.md)|[9.4](Chapter-9/Exercise-9.4.md)|[9.5](Chapter-9/Exercise-9.5.md)|[9.6](Chapter-9/Exercise-9.6.md)|[9.7](Chapter-9/Exercise-9.7.md)|[9.8](Chapter-9/Exercise-9.8.md)|[9.9](Chapter-9/Exercise-9.9.md)|[9.10](Chapter-9/Exercise-9.10.md)|
+|[9.11](Chapter-9/Exercise-9.11.md)|[9.12](Chapter-9/Exercise-9.12.md)|[9.13](Chapter-9/Exercise-9.13.md)|[9.14](Chapter-9/Exercise-9.14.md)|[9.15](Chapter-9/Exercise-9.15.md)|[9.16](Chapter-9/Exercise-9.16.md)|[9.17](Chapter-9/Exercise-9.17.md)|[9.18](Chapter-9/Exercise-9.18.md)|[9.19](Chapter-9/Exercise-9.19.md)|[9.20](Chapter-9/Exercise-9.20.md)|
 
 ### Chapter 10 Associative Containers
 
