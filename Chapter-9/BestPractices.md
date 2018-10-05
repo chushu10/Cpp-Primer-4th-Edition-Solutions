@@ -18,3 +18,5 @@
   - We must be able to copy objects of the element type.
 - We must separate the two closing `>` symbols with a space to indicate that these two characters represent two symbols. Without the space, `>>` is treated as a single symbol, the right shift operator, and results in a compile-time error.
 - There is **no way to examine an iterator** to determine whether it has been invalidated. There is no test we can perform to detect that it has gone bad. Any use of an invalidated iterator is likely to yield a run-time error, but there is no guarantee that the program will crash or otherwise make it easy to detect the problem.
+- When we add an element to a container, we do so by **copying** the element value into the container. Subsequent changes to the element in the container have no effect on the value that was copied, and vice versa.
+- Inserting anywhere but at the end of a `vector` is an expensive operation.
