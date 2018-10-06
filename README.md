@@ -75,6 +75,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[9.1](Chapter-9/Exercise-9.1.md)|[9.2](Chapter-9/Exercise-9.2.md)|[9.3](Chapter-9/Exercise-9.3.md)|[9.4](Chapter-9/Exercise-9.4.md)|[9.5](Chapter-9/Exercise-9.5.md)|[9.6](Chapter-9/Exercise-9.6.md)|[9.7](Chapter-9/Exercise-9.7.md)|[9.8](Chapter-9/Exercise-9.8.md)|[9.9](Chapter-9/Exercise-9.9.md)|[9.10](Chapter-9/Exercise-9.10.md)|
 |[9.11](Chapter-9/Exercise-9.11.md)|[9.12](Chapter-9/Exercise-9.12.md)|[9.13](Chapter-9/Exercise-9.13.md)|[9.14](Chapter-9/Exercise-9.14.md)|[9.15](Chapter-9/Exercise-9.15.md)|[9.16](Chapter-9/Exercise-9.16.md)|[9.17](Chapter-9/Exercise-9.17.md)|[9.18](Chapter-9/Exercise-9.18.md)|[9.19](Chapter-9/Exercise-9.19.md)|[9.20](Chapter-9/Exercise-9.20.md)|
+|[9.21](Chapter-9/Exercise-9.21.md)|[9.22](Chapter-9/Exercise-9.22.md)|[9.23](Chapter-9/Exercise-9.23.md)|[9.24](Chapter-9/Exercise-9.24.md)|[9.25](Chapter-9/Exercise-9.25.md)|[9.26](Chapter-9/Exercise-9.26.md)|[9.27](Chapter-9/Exercise-9.27.md)|[9.28](Chapter-9/Exercise-9.28.md)|[9.29](Chapter-9/Exercise-9.29.md)|[9.30](Chapter-9/Exercise-9.30.md)|
 
 ### Chapter 10 Associative Containers
 
