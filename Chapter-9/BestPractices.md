@@ -21,3 +21,5 @@
 - When we add an element to a container, we do so by **copying** the element value into the container. Subsequent changes to the element in the container have no effect on the value that was copied, and vice versa.
 - Inserting anywhere but at the end of a `vector` is an expensive operation.
 - If we want to assign elements of a different but compatible element type and/or from a different container type, then we must use the `assign` operation. eg: `c.assign(b,e)`, where `c` is of type `vector<char*>` and `b` and `e` are iterators into `list<string>`.
+- In general, unless there is a good reason to prefer another container, `vector` is usually the right one to use.
+- When you are not certain which container the application should use, try to write your code so that it uses only operations common to both `vector`s and `list`s: Use iterators, not subscripts, and avoid random access to elements. By writing your programs this way, it will be easier to change the container from a `vector` to a `list` if necessary.
