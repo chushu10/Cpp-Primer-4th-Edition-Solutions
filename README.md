@@ -77,9 +77,13 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[9.11](Chapter-9/Exercise-9.11.md)|[9.12](Chapter-9/Exercise-9.12.md)|[9.13](Chapter-9/Exercise-9.13.md)|[9.14](Chapter-9/Exercise-9.14.md)|[9.15](Chapter-9/Exercise-9.15.md)|[9.16](Chapter-9/Exercise-9.16.md)|[9.17](Chapter-9/Exercise-9.17.md)|[9.18](Chapter-9/Exercise-9.18.md)|[9.19](Chapter-9/Exercise-9.19.md)|[9.20](Chapter-9/Exercise-9.20.md)|
 |[9.21](Chapter-9/Exercise-9.21.md)|[9.22](Chapter-9/Exercise-9.22.md)|[9.23](Chapter-9/Exercise-9.23.md)|[9.24](Chapter-9/Exercise-9.24.md)|[9.25](Chapter-9/Exercise-9.25.md)|[9.26](Chapter-9/Exercise-9.26.md)|[9.27](Chapter-9/Exercise-9.27.md)|[9.28](Chapter-9/Exercise-9.28.md)|[9.29](Chapter-9/Exercise-9.29.md)|[9.30](Chapter-9/Exercise-9.30.md)|
 |[9.31](Chapter-9/Exercise-9.31.md)|[9.32](Chapter-9/Exercise-9.32.md)|[9.33](Chapter-9/Exercise-9.33.md)|[9.34](Chapter-9/Exercise-9.34.md)|[9.35](Chapter-9/Exercise-9.35.md)|[9.36](Chapter-9/Exercise-9.36.md)|[9.37](Chapter-9/Exercise-9.37.md)|[9.38](Chapter-9/Exercise-9.38.md)|[9.39](Chapter-9/Exercise-9.39.md)|[9.40](Chapter-9/Exercise-9.40.md)|
-|[9.41](Chapter-9/Exercise-9.41.md)|[9.42](Chapter-9/Exercise-9.42.md)|[9.43](Chapter-9/Exercise-9.43.md)|[9.44](Chapter-9/Exercise-9.44.md)|[9.45](Chapter-9/Exercise-9.45.md)|[9.46](Chapter-9/Exercise-9.46.md)|[9.47](Chapter-9/Exercise-9.47.md)|[9.48](Chapter-9/Exercise-9.48.md)|[9.49](Chapter-9/Exercise-9.49.md)|[9.50](Chapter-9/Exercise-9.50.md)|
+|[9.41](Chapter-9/Exercise-9.41.md)|[9.42](Chapter-9/Exercise-9.42.md)|[9.43](Chapter-9/Exercise-9.43.md)||||||||
 
-### Chapter 10 Associative Containers
+### Chapter 10 [Associative Containers](Chapter-10)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[10.1](Chapter-10/Exercise-10.1.md)|[10.2](Chapter-10/Exercise-10.2.md)|[10.3](Chapter-10/Exercise-10.3.md)|[10.4](Chapter-10/Exercise-10.4.md)|[10.5](Chapter-10/Exercise-10.5.md)|[10.6](Chapter-10/Exercise-10.6.md)|[10.7](Chapter-10/Exercise-10.7.md)|[10.8](Chapter-10/Exercise-10.8.md)|[10.9](Chapter-10/Exercise-10.9.md)|[10.10](Chapter-10/Exercise-10.10.md)|
 
 ### Chapter 11 Generic Algorithms
 
