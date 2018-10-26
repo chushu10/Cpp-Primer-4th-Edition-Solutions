@@ -85,6 +85,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[10.1](Chapter-10/Exercise-10.1.md)|[10.2](Chapter-10/Exercise-10.2.md)|[10.3](Chapter-10/Exercise-10.3.md)|[10.4](Chapter-10/Exercise-10.4.md)|[10.5](Chapter-10/Exercise-10.5.md)|[10.6](Chapter-10/Exercise-10.6.md)|[10.7](Chapter-10/Exercise-10.7.md)|[10.8](Chapter-10/Exercise-10.8.md)|[10.9](Chapter-10/Exercise-10.9.md)|[10.10](Chapter-10/Exercise-10.10.md)|
 |[10.11](Chapter-10/Exercise-10.11.md)|[10.12](Chapter-10/Exercise-10.12.md)|[10.13](Chapter-10/Exercise-10.13.md)|[10.14](Chapter-10/Exercise-10.14.md)|[10.15](Chapter-10/Exercise-10.15.md)|[10.16](Chapter-10/Exercise-10.16.md)|[10.17](Chapter-10/Exercise-10.17.md)|[10.18](Chapter-10/Exercise-10.18.md)|[10.19](Chapter-10/Exercise-10.19.md)|[10.20](Chapter-10/Exercise-10.20.md)|
+|[10.21](Chapter-10/Exercise-10.21.md)|[10.22](Chapter-10/Exercise-10.22.md)|[10.23](Chapter-10/Exercise-10.23.md)|[10.24](Chapter-10/Exercise-10.24.md)|[10.25](Chapter-10/Exercise-10.25.md)|[10.26](Chapter-10/Exercise-10.26.md)|[10.27](Chapter-10/Exercise-10.27.md)|[10.28](Chapter-10/Exercise-10.28.md)|[10.29](Chapter-10/Exercise-10.29.md)|[10.30](Chapter-10/Exercise-10.30.md)|
 
 ### Chapter 11 Generic Algorithms
 
