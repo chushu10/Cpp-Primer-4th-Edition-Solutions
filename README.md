@@ -2,7 +2,7 @@
 
 Solutions to Exercises in the 4th Edition of Cpp Primer.
 
-**Attention!!!**: All of the solutions provided by this repository are just for reference, they are not guaranteed for correct. **Pull request** and **issues** are very welcome!
+**Attention!!!**: All of the solutions provided by this repository are just for reference, they are not guaranteed for correct. **Pull requests** and **issues** are very welcome!
 
 **Attention two!!!**: All files except explicitly announced are under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
 
