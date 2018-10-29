@@ -6,34 +6,34 @@ There are at least three ways to create the `pair`s in the program for the previ
 
 ```cpp
 // version one
-pair<string, int> strIntPair;
-vector< pair<string, int> > pairVec;
-while (cin >> strIntPair.first >> strIntPair.second) { // directly access members
-    pairVec.push_back(strIntPair);
+pair<string, int> str_int_pair;
+vector< pair<string, int> > pair_vec;
+while (cin >> str_int_pair.first >> str_int_pair.second) { // directly access members
+    pair_vec.push_back(str_int_pair);
 }
 ```
 
 ```cpp
 // version two
-pair<string, int> strIntPair;
+pair<string, int> str_int_pair;
 string first;
 int second;
-vector< pair<string, int> > pairVec;
+vector< pair<string, int> > pair_vec;
 while (cin >> first >> second) {
-    strIntPair = make_pair(first, second); // use make_pair
-    pairVec.push_back(strIntPair);
+    str_int_pair = make_pair(first, second); // use make_pair
+    pair_vec.push_back(str_int_pair);
 }
 ```
 
 ```cpp
 // version three
-pair<string, int> strIntPair;
+pair<string, int> str_int_pair;
 string first;
 int second;
-vector< pair<string, int> > pairVec;
+vector< pair<string, int> > pair_vec;
 while (cin >> first >> second) {
-    strIntPair = pair<string, int>(first, second); // use constructor
-    pairVec.push_back(strIntPair);
+    str_int_pair = pair<string, int>(first, second); // use constructor
+    pair_vec.push_back(str_int_pair);
 }
 ```
 

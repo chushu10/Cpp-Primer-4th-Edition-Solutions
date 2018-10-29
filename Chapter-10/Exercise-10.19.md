@@ -26,36 +26,36 @@ int main(int argc, char const *argv[])
         throw runtime_error("wrong number of arguments");
     }
 
-    map<string, vector<pair<string, string> > > familyChildren;
-    ifstream surnameFile, firstnameFile, birthdayFile;
+    map<string, vector<pair<string, string> > > family_children;
+    ifstream surname_file, firstname_file, birthday_file;
     string surname, firstname, birthday;
 
-    if (!open_file(surnameFile, "surname.txt")) {
+    if (!open_file(surname_file, "surname.txt")) {
         throw runtime_error("no surname file");
     }
-    while (surnameFile >> surname) {
+    while (surname_file >> surname) {
         vector<pair<string, string> > children;
-        if (!open_file(firstnameFile, "firstname.txt")) {
+        if (!open_file(firstname_file, "firstname.txt")) {
             throw runtime_error("no firstname file");
         }
-        if (!open_file(birthdayFile, "birthday.txt")) {
+        if (!open_file(birthday_file, "birthday.txt")) {
             throw runtime_error("no birthday file");
         }
-        while (firstnameFile >> firstname &&
-               birthdayFile >> birthday) {
+        while (firstname_file >> firstname &&
+               birthday_file >> birthday) {
             children.push_back(make_pair(firstname, birthday));
         }
-        familyChildren.insert(make_pair(surname, children));
+        family_children.insert(make_pair(surname, children));
     }
 
     // Test
-    map<string, vector<pair<string, string> > >::iterator mapIt;
-    mapIt = familyChildren.find(argv[1]);
-    if (mapIt != familyChildren.end()) {
-        vector<pair<string, string> > children = mapIt->second;
+    map<string, vector<pair<string, string> > >::iterator map_it;
+    map_it = family_children.find(argv[1]);
+    if (map_it != family_children.end()) {
+        vector<pair<string, string> > children = map_it->second;
         vector<pair<string, string> >::iterator it = children.begin();
         for (; it != children.end(); ++it) {
-            cout << it->first << " " << mapIt->first
+            cout << it->first << " " << map_it->first
                  << " born in: " << it->second << endl;
         }
     } else {

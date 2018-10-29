@@ -6,15 +6,15 @@ Write a program that stores the excluded words in a `vector` instead of in a `se
 
 ```cpp
 string word;
-vector<string> excludedWords;
+vector<string> excluded_words;
 while (cin >> word) {
-    vector<string>::iterator it = excludedWords.begin();
-    for (; it != excludedWords.end(); ++it) {
+    vector<string>::iterator it = excluded_words.begin();
+    for (; it != excluded_words.end(); ++it) {
         if (*it == word) {
             continue;
         }
     }
-    exludedWords.push_back(word);
+    excluded_words.push_back(word);
 }
 ```
 
@@ -22,8 +22,8 @@ Using `set`, the program above can be as simple as this:
 
 ```cpp
 string word;
-set<string> excludedWords;
+set<string> excluded_words;
 while (cin >> word) {
-    excludedWords.insert(word);
+    excluded_words.insert(word);
 }
 ```

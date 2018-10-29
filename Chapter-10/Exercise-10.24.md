@@ -23,21 +23,21 @@ ifstream& open_file(ifstream &in, const string &file) {
 int main(int argc, char const *argv[])
 {
     set<string> exclusions;
-    ifstream exclusionFile;
+    ifstream exclusion_file;
     string exclusion;
-    if (!open_file(exclusionFile, "exclusion.txt")) {
+    if (!open_file(exclusion_file, "exclusion.txt")) {
         throw runtime_error("no exclusion file");
     }
-    while (exclusionFile >> exclusion) {
+    while (exclusion_file >> exclusion) {
         exclusions.insert(exclusion);
     }
 
-    ifstream pluralFile;
+    ifstream plural_file;
     string plural;
-    if (!open_file(pluralFile, "plural.txt")) {
+    if (!open_file(plural_file, "plural.txt")) {
         throw runtime_error("no plural file");
     }
-    while (pluralFile >> plural) {
+    while (plural_file >> plural) {
         if (!exclusions.count(plural)) {
             cout << plural.substr(0, plural.size() - 1) << endl;
         } else {

@@ -13,13 +13,13 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    pair<string, int> strIntPair;
-    vector< pair<string, int> > pairVec;
-    while (cin >> strIntPair.first >> strIntPair.second) {
-        pairVec.push_back(strIntPair);
+    pair<string, int> str_int_pair;
+    vector< pair<string, int> > pair_vec;
+    while (cin >> str_int_pair.first >> str_int_pair.second) {
+        pair_vec.push_back(str_int_pair);
     }
-    vector< pair<string, int> >::iterator it = pairVec.begin();
-    for (; it != pairVec.end(); ++it) {
+    vector< pair<string, int> >::iterator it = pair_vec.begin();
+    for (; it != pair_vec.end(); ++it) {
         cout << it->first << ": " << it->second << endl;
     }
     return 0;

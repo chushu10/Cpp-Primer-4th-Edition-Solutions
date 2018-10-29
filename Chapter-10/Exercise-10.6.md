@@ -24,19 +24,19 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     map< vector<int>::iterator, int > map1;
-    vector<int> intVec;
-    intVec.push_back(1);
-    intVec.push_back(2);
-    intVec.push_back(3);
-    vector<int>::iterator it1 = intVec.begin();
+    vector<int> int_vec;
+    int_vec.push_back(1);
+    int_vec.push_back(2);
+    int_vec.push_back(3);
+    vector<int>::iterator it1 = int_vec.begin();
     map1.insert(map< vector<int>::iterator, int >::value_type(it1, 5));
 
     map< list<int>::iterator, int > map2;
-    list<int> intList;
-    intList.push_back(1);
-    intList.push_back(2);
-    intList.push_back(3);
-    list<int>::iterator it1 = intList.begin();
+    list<int> int_list;
+    int_list.push_back(1);
+    int_list.push_back(2);
+    int_list.push_back(3);
+    list<int>::iterator it1 = int_list.begin();
     map2.insert(map< list<int>::iterator, int >::value_type(it1, 5)); // Compile error
 
     map< pair<int, string>, int > map3;
