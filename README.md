@@ -88,7 +88,11 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[10.21](Chapter-10/Exercise-10.21.md)|[10.22](Chapter-10/Exercise-10.22.md)|[10.23](Chapter-10/Exercise-10.23.md)|[10.24](Chapter-10/Exercise-10.24.md)|[10.25](Chapter-10/Exercise-10.25.md)|[10.26](Chapter-10/Exercise-10.26.md)|[10.27](Chapter-10/Exercise-10.27.md)|[10.28](Chapter-10/Exercise-10.28.md)|[10.29](Chapter-10/Exercise-10.29.md)|[10.30](Chapter-10/Exercise-10.30.md)|
 |[10.31](Chapter-10/Exercise-10.31.md)|[10.32](Chapter-10/Exercise-10.32.md)|[10.33](Chapter-10/Exercise-10.33.md)||||||||
 
-### Chapter 11 Generic Algorithms
+### Chapter 11 [Generic Algorithms](Chapter-11)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[11.1](Chapter-11/Exercise-11.1.md)|[11.2](Chapter-11/Exercise-11.2.md)|[11.3](Chapter-11/Exercise-11.3.md)|[11.4](Chapter-11/Exercise-11.4.md)|[11.5](Chapter-11/Exercise-11.5.md)|[11.6](Chapter-11/Exercise-11.6.md)|[11.7](Chapter-11/Exercise-11.7.md)|[11.8](Chapter-11/Exercise-11.8.md)|[11.9](Chapter-11/Exercise-11.9.md)|[11.10](Chapter-11/Exercise-11.10.md)|
 
 ### Chapter 12 Classes
 
