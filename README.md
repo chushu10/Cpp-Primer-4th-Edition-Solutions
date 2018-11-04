@@ -93,6 +93,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |1|2|3|4|5|6|7|8|9|10|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[11.1](Chapter-11/Exercise-11.1.md)|[11.2](Chapter-11/Exercise-11.2.md)|[11.3](Chapter-11/Exercise-11.3.md)|[11.4](Chapter-11/Exercise-11.4.md)|[11.5](Chapter-11/Exercise-11.5.md)|[11.6](Chapter-11/Exercise-11.6.md)|[11.7](Chapter-11/Exercise-11.7.md)|[11.8](Chapter-11/Exercise-11.8.md)|[11.9](Chapter-11/Exercise-11.9.md)|[11.10](Chapter-11/Exercise-11.10.md)|
+|[11.11](Chapter-11/Exercise-11.11.md)|[11.12](Chapter-11/Exercise-11.12.md)|[11.13](Chapter-11/Exercise-11.13.md)|[11.14](Chapter-11/Exercise-11.14.md)|[11.15](Chapter-11/Exercise-11.15.md)|[11.16](Chapter-11/Exercise-11.16.md)|[11.17](Chapter-11/Exercise-11.17.md)|[11.18](Chapter-11/Exercise-11.18.md)|[11.19](Chapter-11/Exercise-11.19.md)|[11.20](Chapter-11/Exercise-11.20.md)|
 
 ### Chapter 12 Classes
 

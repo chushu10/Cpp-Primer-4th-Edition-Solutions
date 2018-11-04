@@ -9,3 +9,4 @@
     ```
 - The job of generic algorithm `find` is to find a particular element in an **unsorted** collection of elements.
 - The element addressed by the second iterator, sometimes referred to as the **off-the-end iterator**, is not itself examined; it serves as a sentinel to terminate the traversal.
+- Algorithms never directly change the size of a container. If we want to add or remove elements, we must use a container operation.
