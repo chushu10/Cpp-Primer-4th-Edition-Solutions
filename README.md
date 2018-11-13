@@ -96,7 +96,13 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[11.11](Chapter-11/Exercise-11.11.md)|[11.12](Chapter-11/Exercise-11.12.md)|[11.13](Chapter-11/Exercise-11.13.md)|[11.14](Chapter-11/Exercise-11.14.md)|[11.15](Chapter-11/Exercise-11.15.md)|[11.16](Chapter-11/Exercise-11.16.md)|[11.17](Chapter-11/Exercise-11.17.md)|[11.18](Chapter-11/Exercise-11.18.md)|[11.19](Chapter-11/Exercise-11.19.md)|[11.20](Chapter-11/Exercise-11.20.md)|
 |[11.21](Chapter-11/Exercise-11.21.md)|[11.22](Chapter-11/Exercise-11.22.md)|[11.23](Chapter-11/Exercise-11.23.md)|[11.24](Chapter-11/Exercise-11.24.md)|[11.25](Chapter-11/Exercise-11.25.md)|[11.26](Chapter-11/Exercise-11.26.md)|[11.27](Chapter-11/Exercise-11.27.md)|[11.28](Chapter-11/Exercise-11.28.md)|[11.29](Chapter-11/Exercise-11.29.md)||
 
-### Chapter 12 Classes
+### Chapter 12 [Classes](Chapter-12)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[12.1](Chapter-12/Exercise-12.1.md)|[12.2](Chapter-12/Exercise-12.2.md)|[12.3](Chapter-12/Exercise-12.3.md)|[12.4](Chapter-12/Exercise-12.4.md)|[12.5](Chapter-12/Exercise-12.5.md)|[12.6](Chapter-12/Exercise-12.6.md)|[12.7](Chapter-12/Exercise-12.7.md)|[12.8](Chapter-12/Exercise-12.8.md)|[12.9](Chapter-12/Exercise-12.9.md)|[12.10](Chapter-12/Exercise-12.10.md)|
+|[12.11](Chapter-12/Exercise-12.11.md)|[12.12](Chapter-12/Exercise-12.12.md)|[12.13](Chapter-12/Exercise-12.13.md)|[12.14](Chapter-12/Exercise-12.14.md)|[12.15](Chapter-12/Exercise-12.15.md)|[12.16](Chapter-12/Exercise-12.16.md)|[12.17](Chapter-12/Exercise-12.17.md)|[12.18](Chapter-12/Exercise-12.18.md)|[12.19](Chapter-12/Exercise-12.19.md)|[12.20](Chapter-12/Exercise-12.20.md)|
+|[12.21](Chapter-12/Exercise-12.21.md)|[12.22](Chapter-12/Exercise-12.22.md)|[12.23](Chapter-12/Exercise-12.23.md)|[12.24](Chapter-12/Exercise-12.24.md)|[12.25](Chapter-12/Exercise-12.25.md)|[12.26](Chapter-12/Exercise-12.26.md)|[12.27](Chapter-12/Exercise-12.27.md)|[12.28](Chapter-12/Exercise-12.28.md)|[12.29](Chapter-12/Exercise-12.29.md)||
 
 ### Chapter 13 Copy Control
 
