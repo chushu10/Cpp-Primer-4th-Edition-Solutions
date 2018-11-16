@@ -8,11 +8,11 @@ Write your own version of the `Screen` class presented in this section, giving i
 class Screen {
 public:
     typedef std::string::size_type index;
-    Screen (index height, index width, std::string contents)
+    Screen (index h, index w)
     {
-        this.height = height;
-        this.width = width;
-        this.contents = contents;
+        height = h;
+        width = w;
+        contents = std::string(h * w, ' ');
     }
 private:
     std::string contents;
