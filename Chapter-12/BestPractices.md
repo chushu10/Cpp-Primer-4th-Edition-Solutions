@@ -6,3 +6,4 @@
 - A class is not defined until its class body is complete, a class cannot have data members of its own type. But can have data members that are pointers or references to its own type.
 - Ordinarily, it is a bad idea to define an object as part of a class definition. Doing so obscures what's happening. It is confusing to readers to combine definitions of two different entitiesthe class and a variablein a single statement.
 - If the function is defined outside the class body, then the name used for the return type is outside the class scope.
+- A name must be defined before it can be used
