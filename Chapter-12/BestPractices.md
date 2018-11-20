@@ -8,3 +8,7 @@
 - If the function is defined outside the class body, then the name used for the return type is outside the class scope.
 - A name must be defined before it can be used。
 - A constructor is used to initialize an object regardless of whether the object is `const`.
+- The constructor initializer is specified only on the constructor definition, not its declaration.
+- Conceptually, we can think of a constructor as executing in two phases: (1) the initialization phase and (2) a general computation phase. The computation phase consists of all the statements within the body of the constructor.
+- We must use an initializer for any `const` or reference member or for any member of a class type that does not have a default constructor.
+- The constructor initializer list specifies only the values used to initialize the members, **not the order** in which those initializations are performed. So, it is a good idea to write constructor initializers in the same order as the members are declared. Moreover, when possible, avoid using members to initialize other members.
