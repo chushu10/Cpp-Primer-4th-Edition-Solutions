@@ -12,3 +12,7 @@
 - Conceptually, we can think of a constructor as executing in two phases: (1) the initialization phase and (2) a general computation phase. The computation phase consists of all the statements within the body of the constructor.
 - We must use an initializer for any `const` or reference member or for any member of a class type that does not have a default constructor.
 - The constructor initializer list specifies only the values used to initialize the members, **not the order** in which those initializations are performed. So, it is a good idea to write constructor initializers in the same order as the members are declared. Moreover, when possible, avoid using members to initialize other members.
+- The compiler generates a default constructor automatically only if a class defines *no* constructors.
+- When objects are defined at local scope, then members of built-in or compound type are *uninitialized*.
+- [A default constructor is a constructor that either has no parameters, or if it has parameters, all the parameters have default values](https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr376.htm).
+- In practice, it is almost always right to provide a default constructor if other constructors are being defined. Ordinarily the initial values given to the members in the default constructor should indicate that the object is "empty."
