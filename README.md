@@ -103,7 +103,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer.
 |[12.1](Chapter-12/Exercise-12.1.md)|[12.2](Chapter-12/Exercise-12.2.md)|[12.3](Chapter-12/Exercise-12.3.md)|[12.4](Chapter-12/Exercise-12.4.md)|[12.5](Chapter-12/Exercise-12.5.md)|[12.6](Chapter-12/Exercise-12.6.md)|[12.7](Chapter-12/Exercise-12.7.md)|[12.8](Chapter-12/Exercise-12.8.md)|[12.9](Chapter-12/Exercise-12.9.md)|[12.10](Chapter-12/Exercise-12.10.md)|
 |[12.11](Chapter-12/Exercise-12.11.md)|[12.12](Chapter-12/Exercise-12.12.md)|[12.13](Chapter-12/Exercise-12.13.md)|[12.14](Chapter-12/Exercise-12.14.md)|[12.15](Chapter-12/Exercise-12.15.md)|[12.16](Chapter-12/Exercise-12.16.md)|[12.17](Chapter-12/Exercise-12.17.md)|[12.18](Chapter-12/Exercise-12.18.md)|[12.19](Chapter-12/Exercise-12.19.md)|[12.20](Chapter-12/Exercise-12.20.md)|
 |[12.21](Chapter-12/Exercise-12.21.md)|[12.22](Chapter-12/Exercise-12.22.md)|[12.23](Chapter-12/Exercise-12.23.md)|[12.24](Chapter-12/Exercise-12.24.md)|[12.25](Chapter-12/Exercise-12.25.md)|[12.26](Chapter-12/Exercise-12.26.md)|[12.27](Chapter-12/Exercise-12.27.md)|[12.28](Chapter-12/Exercise-12.28.md)|[12.29](Chapter-12/Exercise-12.29.md)|[12.30](Chapter-12/Exercise-12.30.md)|
-|[12.31](Chapter-12/Exercise-12.31.md)|[12.32](Chapter-12/Exercise-12.32.md)|[12.33](Chapter-12/Exercise-12.33.md)|[12.34](Chapter-12/Exercise-12.34.md)|[12.35](Chapter-12/Exercise-12.35.md)||||||
+|[12.31](Chapter-12/Exercise-12.31.md)|[12.32](Chapter-12/Exercise-12.32.md)|[12.33](Chapter-12/Exercise-12.33.md)|[12.34](Chapter-12/Exercise-12.34.md)|[12.35](Chapter-12/Exercise-12.35.md)|[12.36](Chapter-12/Exercise-12.36.md)|[12.37](Chapter-12/Exercise-12.37.md)||||
 
 ### Chapter 13 Copy Control
 
