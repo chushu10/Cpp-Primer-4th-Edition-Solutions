@@ -19,3 +19,4 @@
 - Ordinarily, single-parameter constructors should be `explicit` unless there is an obvious reason to want to define an implicit conversion. Making constructors `explicit` may avoid mistakes, and a user can explicitly construct an object when a conversion is useful.
 - A friend declaration introduces the named class or nonmember function into the surrounding scope. Moreover, a friend function may be defined inside the class. The scope of the function is exported to the scope enclosing the class definition.
 - Each `static` data member is an object associated with the class, not with the objects of that class.
+- A `static` member is part of its class but *not part of any object*. Hence, a `static` member function does not have a `this` pointer.
