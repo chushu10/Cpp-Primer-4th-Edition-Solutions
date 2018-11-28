@@ -106,7 +106,13 @@ Solutions to Exercises in the 4th Edition of Cpp Primer. There are somethings to
 |[12.31](Chapter-12/Exercise-12.31.md)|[12.32](Chapter-12/Exercise-12.32.md)|[12.33](Chapter-12/Exercise-12.33.md)|[12.34](Chapter-12/Exercise-12.34.md)|[12.35](Chapter-12/Exercise-12.35.md)|[12.36](Chapter-12/Exercise-12.36.md)|[12.37](Chapter-12/Exercise-12.37.md)|[12.38](Chapter-12/Exercise-12.38.md)|[12.39](Chapter-12/Exercise-12.39.md)|[12.40](Chapter-12/Exercise-12.40.md)|
 |[12.41](Chapter-12/Exercise-12.41.md)|[12.42](Chapter-12/Exercise-12.42.md)|||||||||
 
-### Chapter 13 Copy Control
+### Chapter 13 [Copy Control](Chapter-13)
+
+|[13.1](Chapter-13/Exercise-13.1.md)|[13.2](Chapter-13/Exercise-13.2.md)|[13.3](Chapter-13/Exercise-13.3.md)|[13.4](Chapter-13/Exercise-13.4.md)|[13.5](Chapter-13/Exercise-13.5.md)|[13.6](Chapter-13/Exercise-13.6.md)|[13.7](Chapter-13/Exercise-13.7.md)|[13.8](Chapter-13/Exercise-13.8.md)|[13.9](Chapter-13/Exercise-13.9.md)|[13.10](Chapter-13/Exercise-13.10.md)|
+|[13.11](Chapter-13/Exercise-13.11.md)|[13.12](Chapter-13/Exercise-13.12.md)|[13.13](Chapter-13/Exercise-13.13.md)|[13.14](Chapter-13/Exercise-13.14.md)|[13.15](Chapter-13/Exercise-13.15.md)|[13.16](Chapter-13/Exercise-13.16.md)|[13.17](Chapter-13/Exercise-13.17.md)|[13.18](Chapter-13/Exercise-13.18.md)|[13.19](Chapter-13/Exercise-13.19.md)|[13.20](Chapter-13/Exercise-13.20.md)|
+|[13.21](Chapter-13/Exercise-13.21.md)|[13.22](Chapter-13/Exercise-13.22.md)|[13.23](Chapter-13/Exercise-13.23.md)|[13.24](Chapter-13/Exercise-13.24.md)|[13.25](Chapter-13/Exercise-13.25.md)|[13.26](Chapter-13/Exercise-13.26.md)|[13.27](Chapter-13/Exercise-13.27.md)|[13.28](Chapter-13/Exercise-13.28.md)|[13.29](Chapter-13/Exercise-13.29.md)|[13.30](Chapter-13/Exercise-13.30.md)|
+|[13.31](Chapter-13/Exercise-13.31.md)|[13.32](Chapter-13/Exercise-13.32.md)|[13.33](Chapter-13/Exercise-13.33.md)|[13.34](Chapter-13/Exercise-13.34.md)|[13.35](Chapter-13/Exercise-13.35.md)|[13.36](Chapter-13/Exercise-13.36.md)|[13.37](Chapter-13/Exercise-13.37.md)|[13.38](Chapter-13/Exercise-13.38.md)|[13.39](Chapter-13/Exercise-13.39.md)|[13.40](Chapter-13/Exercise-13.40.md)|
+|[13.41](Chapter-13/Exercise-13.41.md)|[13.42](Chapter-13/Exercise-13.42.md)|||||||||
 
 ### Chapter 14 Overloaded Operations and Conversions
 
