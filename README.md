@@ -4,7 +4,6 @@ Solutions to Exercises in the 4th Edition of Cpp Primer. There are somethings to
 
 - All of the solutions provided by this repository are just for reference, they are not guaranteed for correct. **Pull requests** and **issues** are very welcome!
 - All files except explicitly announced are under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
-- All of the code style follow [Google C++ style guide](https://google.github.io/styleguide/cppguide.html).
 
 ## Table of Contents
 
