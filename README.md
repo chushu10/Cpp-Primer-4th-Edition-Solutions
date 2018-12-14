@@ -113,7 +113,13 @@ Solutions to Exercises in the 4th Edition of Cpp Primer. There are somethings to
 |[13.11](Chapter-13/Exercise-13.11.md)|[13.12](Chapter-13/Exercise-13.12.md)|[13.13](Chapter-13/Exercise-13.13.md)|[13.14](Chapter-13/Exercise-13.14.md)|[13.15](Chapter-13/Exercise-13.15.md)|[13.16](Chapter-13/Exercise-13.16.md)|[13.17](Chapter-13/Exercise-13.17.md)|[13.18](Chapter-13/Exercise-13.18.md)|[13.19](Chapter-13/Exercise-13.19.md)|[13.20](Chapter-13/Exercise-13.20.md)|
 |[13.21](Chapter-13/Exercise-13.21.md)|[13.22](Chapter-13/Exercise-13.22.md)|[13.23](Chapter-13/Exercise-13.23.md)|[13.24](Chapter-13/Exercise-13.24.md)|[13.25](Chapter-13/Exercise-13.25.md)|[13.26](Chapter-13/Exercise-13.26.md)|[13.27](Chapter-13/Exercise-13.27.md)|*[13.28](Chapter-13/Exercise-13.28.md)*|||
 
-### Chapter 14 Overloaded Operations and Conversions
+### Chapter 14 [Overloaded Operations and Conversions](Chapter-14)
+
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[14.1](Chapter-14/Exercise-14.1.md)|[14.2](Chapter-14/Exercise-14.2.md)|[14.3](Chapter-14/Exercise-14.3.md)|[14.4](Chapter-14/Exercise-14.4.md)|[14.5](Chapter-14/Exercise-14.5.md)|[14.6](Chapter-14/Exercise-14.6.md)|[14.7](Chapter-14/Exercise-14.7.md)|[14.8](Chapter-14/Exercise-14.8.md)|[14.9](Chapter-14/Exercise-14.9.md)|[14.10](Chapter-14/Exercise-14.10.md)|
+|[14.11](Chapter-14/Exercise-14.11.md)|[14.12](Chapter-14/Exercise-14.12.md)|[14.13](Chapter-14/Exercise-14.13.md)|[14.14](Chapter-14/Exercise-14.14.md)|[14.15](Chapter-14/Exercise-14.15.md)|[14.16](Chapter-14/Exercise-14.16.md)|[14.17](Chapter-14/Exercise-14.17.md)|[14.18](Chapter-14/Exercise-14.18.md)|[14.19](Chapter-14/Exercise-14.19.md)|[14.20](Chapter-14/Exercise-14.20.md)|
+|[14.21](Chapter-14/Exercise-14.21.md)|[14.22](Chapter-14/Exercise-14.22.md)|[14.23](Chapter-14/Exercise-14.23.md)|[14.24](Chapter-14/Exercise-14.24.md)|[14.25](Chapter-14/Exercise-14.25.md)|[14.26](Chapter-14/Exercise-14.26.md)|[14.27](Chapter-14/Exercise-14.27.md)|*[14.28](Chapter-14/Exercise-14.28.md)*|||
 
 ### Chapter 15 Object-Oriented Programming
 
