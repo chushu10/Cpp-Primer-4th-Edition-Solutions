@@ -8,7 +8,7 @@ Write the output operator for the class you chose.
 
 **Answer**:
 
-To see the definition of the class I chose, please see [this](../Chapter-12/Exercise-12.20).
+To see the definition of the class I chose, please see [this](../Chapter-12/Exercise-12.20.md).
 
 ```cpp
 std::ostream& operator<<(std::ostream &out, Vehicle &v)
