@@ -20,7 +20,7 @@ public:
     CheckedPtr& operator--();
     CheckedPtr operator++(int);
     CheckedPtr operator--(int);
-    int get_value() { return *curr; };
+    int& operator*() { return *curr; };
 };
 
 CheckedPtr& CheckedPtr::operator++()
@@ -61,11 +61,11 @@ int main()
 {
     int arr[5] = {1,2,3,4,5};
     CheckedPtr cp(arr, arr+5);
-    std::cout << cp.get_value() << std::endl;
-    std::cout << (++cp).get_value() << std::endl;
-    std::cout << (cp++).get_value() << std::endl;
-    std::cout << (--cp).get_value() << std::endl;
-    std::cout << (cp--).get_value() << std::endl;
+    std::cout << *cp << std::endl;
+    std::cout << *(++cp) << std::endl;
+    std::cout << *(cp++) << std::endl;
+    std::cout << *(--cp) << std::endl;
+    std::cout << *(cp--) << std::endl;
     return 0;
 }
 ```
