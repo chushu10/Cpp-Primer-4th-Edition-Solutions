@@ -119,7 +119,8 @@ Solutions to Exercises in the 4th Edition of Cpp Primer. There are somethings to
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[14.1](Chapter-14/Exercise-14.1.md)|[14.2](Chapter-14/Exercise-14.2.md)|[14.3](Chapter-14/Exercise-14.3.md)|[14.4](Chapter-14/Exercise-14.4.md)|[14.5](Chapter-14/Exercise-14.5.md)|[14.6](Chapter-14/Exercise-14.6.md)|[14.7](Chapter-14/Exercise-14.7.md)|[14.8](Chapter-14/Exercise-14.8.md)|[14.9](Chapter-14/Exercise-14.9.md)|[14.10](Chapter-14/Exercise-14.10.md)|
 |[14.11](Chapter-14/Exercise-14.11.md)|[14.12](Chapter-14/Exercise-14.12.md)|[14.13](Chapter-14/Exercise-14.13.md)|[14.14](Chapter-14/Exercise-14.14.md)|[14.15](Chapter-14/Exercise-14.15.md)|*14.16*|[14.17](Chapter-14/Exercise-14.17.md)|[14.18](Chapter-14/Exercise-14.18.md)|[14.19](Chapter-14/Exercise-14.19.md)|[14.20](Chapter-14/Exercise-14.20.md)|
-|[14.21](Chapter-14/Exercise-14.21.md)|[14.22](Chapter-14/Exercise-14.22.md)|[14.23](Chapter-14/Exercise-14.23.md)|[14.24](Chapter-14/Exercise-14.24.md)|[14.25](Chapter-14/Exercise-14.25.md)|[14.26](Chapter-14/Exercise-14.26.md)|[14.27](Chapter-14/Exercise-14.27.md)|[14.28](Chapter-14/Exercise-14.28.md)|||
+|[14.21](Chapter-14/Exercise-14.21.md)|[14.22](Chapter-14/Exercise-14.22.md)|[14.23](Chapter-14/Exercise-14.23.md)|[14.24](Chapter-14/Exercise-14.24.md)|[14.25](Chapter-14/Exercise-14.25.md)|[14.26](Chapter-14/Exercise-14.26.md)|[14.27](Chapter-14/Exercise-14.27.md)|[14.28](Chapter-14/Exercise-14.28.md)|[14.29](Chapter-14/Exercise-14.29.md)|[14.30](Chapter-14/Exercise-14.30.md)|
+|[14.31](Chapter-14/Exercise-14.31.md)|[14.32](Chapter-14/Exercise-14.32.md)|||||||||
 
 ### Chapter 15 Object-Oriented Programming
 
