@@ -1,6 +1,6 @@
-# Exercise 15.3
+# Exercise 15.6
 
-Define your own version of the Item_base class.
+Write your own version of the `Bulk_item` class.
 
 **Answer**:
 
@@ -19,4 +19,20 @@ private:
 protected:
     double price;
 };
+
+class Bulk_item : public Item_base {
+public:
+    double net_price(std::size_t n) const;
+private:
+    std::size_t min_qty;
+    double discount;
+};
+
+double Bulk_item::net_price(size_t cnt) const {
+    if (cnt >= min_qty) {
+        return cnt * (1 - discount) * price;
+    } else {
+        return cnt * price;
+    }
+}
 ```
