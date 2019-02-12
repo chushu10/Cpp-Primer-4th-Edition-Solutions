@@ -14,6 +14,7 @@ public:
     virtual size_t std::size() const { return n; }
 private:
     size_t n;
+protected:
     std::string path;
 }
 
