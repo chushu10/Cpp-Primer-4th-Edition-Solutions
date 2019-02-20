@@ -13,3 +13,5 @@
 | pointer   | run-time<br>(actual type) | compile-time<br>(base type) |
 
 - Using different default arguments in the base and derived versions of the same virtual is almost guaranteed to cause trouble.
+- Even though every `C` object contains an `A` part, the constructors for `C` may not initialize the `A` part directly. Instead, class `C` initializes `B`, and the constructor for class `B` in turn initializes `A`.
+- Derived classes should **respect** the initialization intent of their base classes by using constructors rather than assigning to these members in the body of the constructor..
