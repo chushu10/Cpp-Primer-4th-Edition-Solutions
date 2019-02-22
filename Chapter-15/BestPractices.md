@@ -4,7 +4,7 @@
 - In other words, the interface to the derived type is the combination of both the `protected` and `public` members.
 - When we want to inherit the interface of a base class, then the derivation should be `public`.
 - Regardless of which actual type the object has, the compiler treats the object as if it is a base type object. Treating a derived object as if it were a base type is safe, because every derived object has a base sub-object. Also, the derived class inherits the operations of the base class, meaning that any operation that might be performed on a base object is available through the derived object as well.
-- On the other hand, an object is not polymorphic its type is known and unchanging. The dynamic type of an object (as opposed to a reference or pointer) is always the same as the static type of the object. Virtuals are resolved at run time *only* if the call is made through a reference or pointer.
+- `Virtual`s are resolved at run time *only* if the call is made through a reference or pointer. Only in these cases is it possible for an object's dynamic type to be unknown until run time.
 
 |           | Virtual | Non-virtual |
 | :-------: |:-------:|:-----------:|
@@ -14,4 +14,5 @@
 
 - Using different default arguments in the base and derived versions of the same virtual is almost guaranteed to cause trouble.
 - Even though every `C` object contains an `A` part, the constructors for `C` may not initialize the `A` part directly. Instead, class `C` initializes `B`, and the constructor for class `B` in turn initializes `A`.
-- Derived classes should **respect** the initialization intent of their base classes by using constructors rather than assigning to these members in the body of the constructor..
+- Derived classes should **respect** the initialization intent of their base classes by using constructors rather than assigning to these members in the body of the constructor.
+- Classes that contain only data members of class type or built-in types other than pointers usually can use the synthesized operations.
