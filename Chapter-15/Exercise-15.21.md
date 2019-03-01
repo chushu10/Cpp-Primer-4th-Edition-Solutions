@@ -1,6 +1,6 @@
-# Exercise 15.6
+# Exercise 15.21
 
-Write your own version of the `Bulk_item` class.
+Redefine your `Item_base` hierarchy to include a `Disc_item` class.
 
 **Answer**:
 
@@ -12,26 +12,18 @@ public:
               isbn(book), price(sales_price) { }
     std::string book() const { return isbn; }
     virtual double net_price(std::size_t n) const
-    virtual ~Item_base() { }
+        { return n * price; }
 private:
     std::string isbn;
 protected:
     double price;
 };
 
-class Bulk_item : public Item_base {
+class Disc_item : public Item_base {
 public:
-    double net_price(std::size_t n) const;
-private:
-    std::size_t min_qty;
+    std::pair<size_t, double> discount_policy() const { return std::make_pair(quantity, discount); }
+protected:
+    std::size_t quantity;
     double discount;
 };
-
-double Bulk_item::net_price(size_t cnt) const {
-    if (cnt >= min_qty) {
-        return cnt * (1 - discount) * price;
-    } else {
-        return cnt * price;
-    }
-}
 ```
