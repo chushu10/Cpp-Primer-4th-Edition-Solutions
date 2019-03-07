@@ -17,4 +17,5 @@
 - Derived classes should **respect** the initialization intent of their base classes by using constructors rather than assigning to these members in the body of the constructor.
 - Classes that contain only data members of class type or built-in types other than pointers usually can use the synthesized operations.
 - If the derived class defines its own assignment operator, then that operator must assign the base part explicitly.
-- Each destructor does only what is necessary to clean up its own members
+- Each destructor does only what is necessary to clean up its own members.
+- If the function is virtual and the call is through a reference or pointer, then the compiler generates code to determine which version to run based on the dynamic type of the object.
