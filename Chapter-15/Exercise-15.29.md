@@ -1,6 +1,6 @@
-# Exercise 15.28
+# Exercise 15.29
 
-Define a `vector` to hold objects of type `Item_base` and copy a number of objects of type `Bulk_item` into the `vector`. Iterate over the vector and generate the `net_price` for the elements in the container.
+Repeat your program, but this time store pointers to objects of type `Item_base`. Compare the resulting sum.
 
 **Answer**:
 
@@ -47,17 +47,17 @@ int main()
 {
     Item_base item_base("The Chronicles of Narnia", 19.98);
     Bulk_item bulk_item("Harry Porter", 17.99, 2, 0.2);
-    std::vector<Item_base> item_vec;
-    item_vec.push_back(item_base);
-    item_vec.push_back(bulk_item);
-    std::vector<Item_base>::iterator it = item_vec.begin();
+    std::vector<Item_base *> item_vec;
+    item_vec.push_back(&item_base);
+    item_vec.push_back(&bulk_item);
+    std::vector<Item_base *>::iterator it = item_vec.begin();
     for (; it != item_vec.end(); ++it) {
-        std::cout << it->net_price(5) << std::endl;
+        std::cout << (*it)->net_price(5) << std::endl;
     }
     return 0;
 }
 
 // output:
 // 99.9
-// 89.95
+// 71.96
 ```
