@@ -19,3 +19,13 @@
 - If the derived class defines its own assignment operator, then that operator must assign the base part explicitly.
 - Each destructor does only what is necessary to clean up its own members.
 - If the function is virtual and the call is through a reference or pointer, then the compiler generates code to determine which version to run based on the dynamic type of the object.
+- We cannot make the operator a member of our own class. If we did, then the left-hand operand would have to be an object of our class type:
+    ```
+    // if operator<< is a member of Sales_item
+    Sales_item item;
+    item << cout;
+    ```
+
+    This usage is the opposite of the normal way we use output operators defined for other types.
+    If we want to support normal usage, then the left-hand operand must be of type ostream . That means that if the operator is to be a member of any class, it must be a member of class ostream . However, that class is part of the standard library. Weand anyone else who wants to define IO operatorscan't go adding members to a class in the library. If we want to use the overloaded operators to do IO for our types, we must define them as a nonmember functions. IO operators usually read or write the nonpublic data members. As a consequence, classes often make the IO operators friends.
+- xxx
