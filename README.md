@@ -131,6 +131,7 @@ Solutions to Exercises in the 4th Edition of Cpp Primer. There are somethings to
 |[15.11](Chapter-15/Exercise-15.11.md)|[15.12](Chapter-15/Exercise-15.12.md)|[15.13](Chapter-15/Exercise-15.13.md)|[15.14](Chapter-15/Exercise-15.14.md)|[15.15](Chapter-15/Exercise-15.15.md)|[15.16](Chapter-15/Exercise-15.16.md)|[15.17](Chapter-15/Exercise-15.17.md)|[15.18](Chapter-15/Exercise-15.18.md)|[15.19](Chapter-15/Exercise-15.19.md)|[15.20](Chapter-15/Exercise-15.20.md)|
 |[15.21](Chapter-15/Exercise-15.21.md)|[15.22](Chapter-15/Exercise-15.22.md)|[15.23](Chapter-15/Exercise-15.23.md)|[15.24](Chapter-15/Exercise-15.24.md)|[15.25](Chapter-15/Exercise-15.25.md)|[15.26](Chapter-15/Exercise-15.26.md)|[15.27](Chapter-15/Exercise-15.27.md)|[15.28](Chapter-15/Exercise-15.28.md)|[15.29](Chapter-15/Exercise-15.29.md)|[15.30](Chapter-15/Exercise-15.30.md)|
 |[15.31](Chapter-15/Exercise-15.31.md)|[15.32](Chapter-15/Exercise-15.32.md)|[15.33](Chapter-15/Exercise-15.33.md)|[15.34](Chapter-15/Exercise-15.34.md)|[15.35](Chapter-15/Exercise-15.35.md)|[15.36](Chapter-15/Exercise-15.36.md)|[15.37](Chapter-15/Exercise-15.37.md)|[15.38](Chapter-15/Exercise-15.38.md)|[15.39](Chapter-15/Exercise-15.39.md)|[15.40](Chapter-15/Exercise-15.40.md)|
+|[15.41](Chapter-15/Exercise-15.41.md)|[15.42](Chapter-15/Exercise-15.42.md)|||||||||
 
 ### Chapter 16 Templates and Generic Programming
 
