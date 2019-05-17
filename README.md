@@ -135,6 +135,14 @@ Solutions to Exercises in the 4th Edition of Cpp Primer. There are somethings to
 
 ### Chapter 16 Templates and Generic Programming
 
+|1|2|3|4|5|6|7|8|9|10|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[16.1](Chapter-16/Exercise-16.1.md)|[16.2](Chapter-16/Exercise-16.2.md)|[16.3](Chapter-16/Exercise-16.3.md)|[16.4](Chapter-16/Exercise-16.4.md)|[16.5](Chapter-16/Exercise-16.5.md)|[16.6](Chapter-16/Exercise-16.6.md)|[16.7](Chapter-16/Exercise-16.7.md)|[16.8](Chapter-16/Exercise-16.8.md)|[16.9](Chapter-16/Exercise-16.9.md)|[16.10](Chapter-16/Exercise-16.10.md)|
+|[16.11](Chapter-16/Exercise-16.11.md)|[16.12](Chapter-16/Exercise-16.12.md)|[16.13](Chapter-16/Exercise-16.13.md)|[16.14](Chapter-16/Exercise-16.14.md)|[16.15](Chapter-16/Exercise-16.16.md)|[16.16](Chapter-16/Exercise-16.16.md)|[16.17](Chapter-16/Exercise-16.17.md)|[16.18](Chapter-16/Exercise-16.18.md)|[16.19](Chapter-16/Exercise-16.19.md)|[16.20](Chapter-16/Exercise-16.20.md)|
+|[16.21](Chapter-16/Exercise-16.21.md)|[16.22](Chapter-16/Exercise-16.22.md)|[16.23](Chapter-16/Exercise-16.23.md)|[16.24](Chapter-16/Exercise-16.24.md)|[16.25](Chapter-16/Exercise-16.25.md)|[16.26](Chapter-16/Exercise-16.26.md)|[16.27](Chapter-16/Exercise-16.27.md)|[16.28](Chapter-16/Exercise-16.28.md)|[16.29](Chapter-16/Exercise-16.29.md)|[16.30](Chapter-16/Exercise-16.30.md)|
+|[16.31](Chapter-16/Exercise-16.31.md)|[16.32](Chapter-16/Exercise-16.32.md)|[16.33](Chapter-16/Exercise-16.33.md)|[16.34](Chapter-16/Exercise-16.34.md)|[16.35](Chapter-16/Exercise-16.35.md)|[16.36](Chapter-16/Exercise-16.36.md)|[16.37](Chapter-16/Exercise-16.37.md)|[16.38](Chapter-16/Exercise-16.38.md)|[16.39](Chapter-16/Exercise-16.39.md)|[16.40](Chapter-16/Exercise-16.40.md)|
+|[16.41](Chapter-16/Exercise-16.41.md)|[16.42](Chapter-16/Exercise-16.42.md)|||||||||
+
 ### Chapter 17 Tools for Large Programs
 
 ### Chapter 18 Specialized Tools and Techniques
