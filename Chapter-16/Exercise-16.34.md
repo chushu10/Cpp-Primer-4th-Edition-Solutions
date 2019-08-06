@@ -9,9 +9,11 @@ Write the member function definitions of the `List` class that you defined for t
 using namespace std;
 
 template <class Type> class List;
+template <class T> std::ostream& operator<<(std::ostream&, const List<T>&);
 
 template <class Type> class ListItem {
     friend class List<Type>;
+    friend std::ostream& operator<< <Type> (std::ostream&, const List<Type>&);
     ListItem(const Type &t): item(t), prev(0), next(0) { }
     Type item;
     ListItem *prev;
@@ -19,6 +21,7 @@ template <class Type> class ListItem {
 };
 
 template <class Type> class List {
+    friend std::ostream& operator<< <Type> (std::ostream&, const List<Type>&);
 public:
     List(): head(0), tail(0) {}          // default constructor
     List(const List &L): head(0), tail(0) { copy_elems(L); }
@@ -31,7 +34,6 @@ public:
     void push_back(const Type &);
     void pop_back();
     bool empty() const {return tail == 0; }
-    void display_elems();
 private:
     ListItem<Type> *head;
     ListItem<Type> *tail;
@@ -68,26 +70,30 @@ template <class Type> void List<Type>::push_back(const Type &val)
     }
 }
 
-template <class Type> void List<Type>::display_elems()
+template <class Type>
+ostream& operator<<(ostream &os, const List<Type> &q)
 {
-    for (ListItem<Type> *pt = head; pt; pt = pt->next) {
-        cout << pt->item << " ";
+    os << "< ";
+    ListItem<Type> *p;
+    for (p = q.head; p; p = p->next) {
+        os << p->item << " ";
     }
-    cout << endl;
+    os << ">";
+    return os;
 }
 
 int main()
 {
     List<int> list;
-    list.display_elems(); // nothing
+    cout << list << endl; // < >
     list.push_back(1);
     list.push_back(2);
     list.push_back(4);
     list.push_back(3);
-    list.display_elems(); // 1 2 4 3
+    cout << list << endl; // < 1 2 4 3 >
     list.pop_back();
     list.push_back(5);
-    list.display_elems(); // 1 2 4 5
+    cout << list << endl; // < 1 2 4 5 >
     return 0;
 }
 ```

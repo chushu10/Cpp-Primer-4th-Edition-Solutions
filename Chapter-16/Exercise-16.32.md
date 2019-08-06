@@ -9,9 +9,11 @@ Implement the assignment operator for class `Queue`.
 using namespace std;
 
 template <class Type> class Queue;
+template <class T> std::ostream& operator<<(std::ostream&, const Queue<T>&);
 
 template <class Type> class QueueItem {
     friend class Queue<Type>;
+    friend std::ostream& operator<< <Type> (std::ostream&, const Queue<Type>&);
 // private class: no public section
     QueueItem(const Type &t): item(t), next(0) { }
     Type item;       // value stored in this element
@@ -19,6 +21,7 @@ template <class Type> class QueueItem {
 };
 
 template <class Type> class Queue {
+    friend std::ostream& operator<< <Type> (std::ostream&, const Queue<Type>&);
 public:
     // empty Queue
     Queue(): head(0), tail(0) { }
@@ -31,9 +34,8 @@ public:
     Type& front() { return head->item; }
     const Type &front() const { return head->item; }
     void push(const Type &);
-    void pop ();
-    bool empty () const { return head == 0; }
-    void display_elems();
+    void pop();
+    bool empty() const { return head == 0; }
 private:
     QueueItem<Type> *head;
     QueueItem<Type> *tail;
@@ -52,7 +54,7 @@ template <class Type> void Queue<Type>::destroy()
 template <class Type> void Queue<Type>::pop()
 {
     // pop is unchecked: Popping off an empty Queue is undefined
-    QueueItem<Type>* p = head; // keep pointer to head so we can delete it
+    QueueItem<Type> *p = head; // keep pointer to head so we can delete it
     head = head->next;         // head now points to next element
     delete p;                  // delete old head element
 }
@@ -81,18 +83,22 @@ void Queue<Type>::copy_elems(const Queue &orig)
 }
 
 template <class Type>
+ostream& operator<<(ostream &os, const Queue<Type> &q)
+{
+    os << "< ";
+    QueueItem<Type> *p;
+    for (p = q.head; p; p = p->next) {
+        os << p->item << " ";
+    }
+    os << ">";
+    return os;
+}
+
+template <class Type>
 Queue<Type>& Queue<Type>::operator=(const Queue &orig)
 {
     copy_elems(orig);
     return *this;
-}
-
-template <class Type> void Queue<Type>::display_elems()
-{
-    for (QueueItem<Type> *pt = head; pt; pt = pt->next) {
-        cout << pt->item << " ";
-    }
-    cout << endl;
 }
 
 int main()
@@ -103,9 +109,9 @@ int main()
     queue.push(3);
     Queue<int> queue2(queue);
     Queue<int> queue3 = queue2;
-    queue.display_elems();
-    queue2.display_elems();
-    queue3.display_elems();
+    cout << queue << endl;
+    cout << queue2 << endl;
+    cout << queue3 << endl;
     return 0;
 }
 ```
