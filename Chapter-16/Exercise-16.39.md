@@ -10,10 +10,12 @@ Implement input and output operators for the template `Screen` class.
 
 template <int hi, int wid> class Screen;
 template <int hi, int wid> std::ostream& operator<<(std::ostream&, const Screen<hi, wid>&);
+template <int hi, int wid> std::istream& operator>>(std::istream&, Screen<hi, wid>&);
 
 template <int hi, int wid>
 class Screen {
     friend std::ostream& operator<< <hi, wid>(std::ostream&, const Screen<hi, wid>&);
+    friend std::istream& operator>> <hi, wid>(std::istream&, Screen<hi, wid>&);
 public:
     typedef std::string::size_type index;
     Screen(): contents(hi * wid, '0'), height(hi), width(wid) { }
@@ -80,12 +82,24 @@ std::ostream& operator<<(std::ostream &os, const Screen<hi, wid> &s)
     return os;
 }
 
+template <int hi, int wid>
+std::istream& operator>>(std::istream &is, Screen<hi, wid> &s)
+{
+    char a;
+    is >> a;
+    std::string temp(hi * wid, a);
+    s.contents = temp;
+    return is;
+}
+
 int main()
 {
     Screen<5, 6> myScreen;
     myScreen.move(4,0).set('#');
     // myScreen.display(std::cout);
     std::cout << myScreen;//<< std::endl;
+    std::cin >> myScreen;
+    std::cout << myScreen;
     return 0;
 }
 ```
